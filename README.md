@@ -2,6 +2,16 @@
 
 Uma calculadora com design minimalista desenvolvida em **Python** utilizando a biblioteca **Pygame**. O projeto foi criado com fins didáticos para iniciantes em programação, demonstrando o uso prático de **funções básicas (`def`)** e **estruturas condicionais (`if / elif / else`)** para executar as quatro operações matemáticas fundamentais com tratamento de erros e interface gráfica interativa.
 
+<div align="center">
+
+  <a href="https://projeto-calculadora-pygame-zeta.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Acessar_Aplicação-2ea44f?style=for-the-badge&logoColor=white" alt="Acessar Site">
+  </a>
+
+</div>
+
+<img width="947" height="591" alt="image" src="https://github.com/user-attachments/assets/633066ca-310c-4778-b6dc-c441b8f69468" />
+
 ---
 
 ## ✨ Características
