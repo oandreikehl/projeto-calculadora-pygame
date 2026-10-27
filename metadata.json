@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python & Pygame Minimalista",
+  "description": "Aprenda a programar uma calculadora minimalista em Python e Pygame com as quatro operações básicas, explicações didáticas e simulação interativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
